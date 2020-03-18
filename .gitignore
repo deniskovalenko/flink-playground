@@ -2,7 +2,7 @@
 .idea/
 *.iml
 *.iws
-
+.project
 # Mac
 .DS_Store
 
